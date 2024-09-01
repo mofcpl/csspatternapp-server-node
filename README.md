@@ -12,7 +12,7 @@ Node.js 22, MySQL Community Server 8
 
 ### Clone this repository
 ```bash
-git clone https://github.com/mofcpl/csspatternapp-server.git
+git clone https://github.com/mofcpl/csspatternapp-server-node.git
 ```
 
 ### Run development server
