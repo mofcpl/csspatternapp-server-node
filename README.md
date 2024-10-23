@@ -37,6 +37,10 @@ npm run start
 
 We use the Git Flow branching model for development.
 
+## Alternative project
+
+This project was also created in Java: [csspatternapp-server](https://github.com/mofcpl/csspatternapp-server)
+
 ## Notes
 
 Refer to [csspatternapp-client](https://github.com/mofcpl/csspatternapp-client) for more information.
